@@ -16,11 +16,12 @@ const Blog = () => {
       Web 3.0 and Blockchain:
       </h1>
       <p className="leading-relaxed text-lg mb-6 text-white">
-      Web 3.0 will interpret content on the web using semantic technologies. As a result, applications and search results will be more intelligent and capable of comprehending users' needs.Web 3.0 has the potential to be just as disruptive and to usher in a significant paradigm shift as Web 2.0 did. The fundamental ideas of decentralization, openness and increased consumer usefulness form the foundation of Web 3.0. Web 3.0, often known as Web 3, is the next step in the development of the internet.
+      Web 3.0 will interpret content on the web using semantic technologies. As a result, applications and search results will be more intelligent and capable of comprehending users needs.Web 3.0 has the potential to be just as disruptive and to usher in a significant paradigm shift as Web 2.0 did.
+       The fundamental ideas of decentralization, openness and increased consumer usefulness form the foundation of Web 3.0. Web 3.0, often known as Web 3, is the next step in the development of the internet.
 
 Imagine a new kind of Internet that accurately translates what you type and understands what you say, whether through text, voice, or other media, and where all of the content you consume is more personalized than ever before. In the evolution of the Internet, you are about to enter a new era. It's been termed Web 3.0.
 
-But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you’re curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. Web 3.0 Explained: A Comprehensive Guide
+But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you are curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. Web 3.0 Explained: A Comprehensive Guide
 Lesson 27 of 33By Shyamli Jha
 
 Last updated on Sep 4, 2024842285
@@ -41,12 +42,13 @@ Web 3.0 has the potential to be just as disruptive and to usher in a significant
 
 Imagine a new kind of Internet that accurately translates what you type and understands what you say, whether through text, voice, or other media, and where all of the content you consume is more personalized than ever before. In the evolution of the Internet, you are about to enter a new era. It's been termed Web 3.0.
 
-But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you’re curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. 
+But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you are curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. 
 
-Basics to Advanced - Learn It All!
-Caltech PGP Full Stack DevelopmentExplore ProgramBasics to Advanced - Learn It All!
+Basics to Advanced Learn It All!
+Caltech PGP Full Stack DevelopmentExplore ProgramBasics to Advanced Learn It All!
 What Is Web 3.0?
-The third generation of the World Wide Web (WWW), referred to as Web 3.0 or Web3, emphasizes instantaneous immersion in the digital world. This version of the internet emphasizes personal data ownership and the use of blockchain technology and cryptocurrencies. Web 3.0 is currently in the early stages of development, but its goal is to build an open, decentralized Internet platform that offers consumers increased value and security. The intention is to create a more user-centric internet where people
+The third generation of the World Wide Web (WWW), referred to as Web 3.0 or Web3, emphasizes instantaneous immersion in the digital world. This version of the internet emphasizes personal data ownership and the use of blockchain technology and cryptocurrencies. Web 3.0 is currently in the early stages of development,
+ but its goal is to build an open, decentralized Internet platform that offers consumers increased value and security. The intention is to create a more user-centric internet where people
  are in charge of their data and may conduct peer-to-peer transactions without depending on centralized entities.
       </p>
       
